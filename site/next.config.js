@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'Kodedeneme Technologies',
     description: 'The official store for Kasm supported workspaces.',
     icon: 'https://github.com/couldrons2022/kasm-repository/img/logo.svg',
     listUrl: 'https://github.com/couldrons2022/kasm-repository/',
@@ -10,7 +10,7 @@ const nextConfig = {
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm-repository/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
